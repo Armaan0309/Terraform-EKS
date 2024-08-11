@@ -32,3 +32,8 @@ Run `terraform plan` to see the configuration it creates when executed.
 ### Finally, Apply terraform configuation to create EKS cluster with VPC 
 
 `terraform apply`
+
+Then a cluste rwill be created as shown here and here it worked and done the process.
+
+![Screenshot 2024-08-11 150010](https://github.com/user-attachments/assets/5753513c-7c17-4453-91a9-7b9b98d6da17)
+
